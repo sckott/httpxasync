@@ -1,7 +1,7 @@
 [project]
-name = "pythonhttpasync"
+name = "httpxasync"
 version = "0.1.0"
-description = "Add your description here"
+description = "httpx async problem exploration"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
